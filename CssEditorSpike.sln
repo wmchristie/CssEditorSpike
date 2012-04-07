@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssEditorSpike", "CssEditorSpike\CssEditorSpike.csproj", "{85D5EE50-6E6D-441D-93EC-FDC3088367EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssEditorSpike.Specs", "CssEditorSpike.Specs\CssEditorSpike.Specs.csproj", "{E68794DE-1AD5-4A7B-971F-9937B6CB0852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85D5EE50-6E6D-441D-93EC-FDC3088367EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D5EE50-6E6D-441D-93EC-FDC3088367EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D5EE50-6E6D-441D-93EC-FDC3088367EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D5EE50-6E6D-441D-93EC-FDC3088367EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68794DE-1AD5-4A7B-971F-9937B6CB0852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68794DE-1AD5-4A7B-971F-9937B6CB0852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68794DE-1AD5-4A7B-971F-9937B6CB0852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68794DE-1AD5-4A7B-971F-9937B6CB0852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
