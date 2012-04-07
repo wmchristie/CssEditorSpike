@@ -150,6 +150,7 @@
     <Content Include="Scripts\CodeMirror-2.23\theme\night.css" />
     <Content Include="Scripts\CodeMirror-2.23\theme\rubyblue.css" />
     <Content Include="Scripts\CodeMirror-2.23\theme\xq-dark.css" />
+    <Content Include="Scripts\site.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
